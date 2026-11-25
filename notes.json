@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "glass"
+    },
+    {
+      "id": 1,
+      "name": "joycon"
+    },
+    {
+      "id": 2,
+      "name": "pen"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

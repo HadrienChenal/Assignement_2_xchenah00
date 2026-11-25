@@ -1,0 +1,16 @@
+
+# Environnement virtuel Python
+ls-env/
+venv/
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env

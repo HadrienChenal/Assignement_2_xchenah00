@@ -1,0 +1,6 @@
+train: images/train
+val: images/val
+names:
+  0: glass
+  1: joycon
+  2: pen
